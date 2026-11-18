@@ -1,0 +1,2 @@
+# model-listing-doubao-seedream-5-5
+字节跳动 Seed 团队在 2026 年 11 月 9 日 发布了新一代图像创作模型 Seedream 5.5。2026 年 11 月 18 日，第三方接口聚合站 momoAPIPro（tryallapi.com）的系统公告写明该模型已经上架，模型 ID 是 。这个 ID 与 火山方舟官方文档 中的 Model ID 一致。
